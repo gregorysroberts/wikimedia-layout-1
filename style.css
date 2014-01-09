@@ -1,0 +1,67 @@
+
+
+body {
+background-color: white;
+font-family: sans-serif;
+}
+
+
+a {
+text-decoration: none;
+
+}
+
+p {
+text-align: justify;
+font-size: 130%;
+width: 80%;
+margin: 0 auto;
+padding: 8px 10px;
+}
+
+
+
+
+#wikitiles{
+display: inline-block;
+width: 22%;
+height: 100%;
+
+}
+
+section {
+	
+width: 80%;
+margin: 20px auto;
+padding: 0 50px;
+}
+
+
+
+.welcome {
+
+	float: right;
+	width: 268px;
+	margin-bottom: 40px
+}
+
+.footertext {
+font-size: 80%;
+width: 80%;
+margin: 0 auto;
+text-align: center;
+}
+
+.footertextlinks {
+font-size: 80%;
+width: 80%;
+margin: 0 auto;
+text-align: center;
+}
+
+.footertextlinks p{
+font-size: 80%;
+width: 80%;
+margin: 0 35px;
+text-align: center;
+}
